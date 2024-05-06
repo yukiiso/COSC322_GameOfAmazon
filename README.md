@@ -5,4 +5,4 @@ This project implements AI for Game of Amazon using Monte Carlo Tree Search.
 ## Description
 - This project requires connection to COSC322 server. 
 - The implementation is not exactly the Monte Carlo Tree Search, but uses some techniques of it such as evaluation function and propagation.  
-- See https://youtu.be/57PZN1Fojxc for test play. 
+- See https://youtu.be/HFeifvnqEVI for test play. 
